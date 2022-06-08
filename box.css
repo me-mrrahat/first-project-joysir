@@ -1,0 +1,19 @@
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+
+
+
+.box h1 {
+    color: white;
+    background-color: green;
+    text-align: center;
+    display: inline-block;
+    padding: 100px;
+    margin: 100px;
+    border: 10px solid white;
+    outline: 10px dotted gold;
+}
+
